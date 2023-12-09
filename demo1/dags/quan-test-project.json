@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "northwind-qu",
+  "private_key_id": "680ee5b5037e480c7c5e925a965a80403cee8c27",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwKBXm57beQFGi\n6cZzBU/2PQnCT75+utou6Aq3nMNwTK0rSMZCKwHdugk+aXI2UkNF0fYDAxV8EMd4\nrDZP7BPnIzhwnsz3OliAEV/1XN8fsuiMRP/kv8pzNuxmQDoqnYGfOltxP/bRCchJ\nsJM2gzUDq9n8UArH802D9842Y9x7ZLVEXF+0NUTkr8WjW0BSH5P3cdI4dAfjwrcF\nErW7gQP14dwvyGJQMh4CFwz34eH1oLt3dpAwwgcqupqSp6Bu7WUsV8tx7NhWUtBK\nRs96E6+87iQ+4VXPwUAP6f++Uvo6N/rZJ/tnlPLFf19l16UntDiVOwg84xWLc/Gt\nJs3HvFkhAgMBAAECggEAA/4AkxFUyGAqSXglVnV8HK9A8Z2nik03RSFens8ncbvX\nH9hAH/9EBU+iRn8Sxs7h9ereea5/9eYWczJp77FAuTgH3yuGJyM0HsDmDRQ7/Uar\ndQRaTUeYcbiAroeNmeokZiSnLl+d+xpO5vagu3dJRApIwCpbODFYJCHBU2O7ezNh\nMz7Wjr9sJrzypaWH7h5i033I+9QpBaEQ4bfz3E912rc2GkPVi1uavNb9GI+CvOfX\ny0o7sC0+wdnF+3+eoVhbyuLvy7D/1oJM39FunU0or599GhQPZ1Xx4wb+/GhXxPKc\nlhRO6pJU/lfaPpjUzBEjlXO7ky6tKUu0+DSew/MYAQKBgQDc80VN04Rq/72Uxe86\nVY/vEuzf2IpWfUnngPyKxX84pFvoAvv5/IvOK2zEyD9qGG1h1xbszTB/HQ64IMzC\nWbdwAe4snenicauNEwFaUYvu++0KeYWurd1UMB+nVVDOqzMJdAp0VKInKqCNPKNR\n+Qj8+0JKcr5yihJYz8hmDBfnAQKBgQDMGcFloXAEe6i91ySnCFtBdg86ZvRyvXTN\nI9np73HuGuqZ55swJZp9F9JpAzCofASQBtZ8PD0K5wOaLasZ5fxSdQx4f60Igbyy\n17rvBVJHqhfbUkdcQl0NnmY+fIPMc4FLxATAXKIecAWhWSaj84RL1LE/7+7jCuJD\nLEt+V+mSIQKBgBftPC8OXcOciDIpMRvXEiwol4AyGeD91lf8jtyUQI+otM8uK41J\nvPYJm9C/gqaBmK7EtRXVro/FXMexvZq6TnQRsXIhc6dy+cngKgBW3ll17Jh6ynA9\nIb+xKmxbf9GxlmhKqaspUxn8ssA4tdL1rfR/XRFk1ZzfuNbnQWNToe8BAoGBAMVZ\nTghAHjknfNT7V4Ru7xYP2s+kx06+5FaLCOVLUsVhn2Brc0INyiCUzS4fGIiBSkQd\naH0+HeQR1gjZia0EFYOBjCpjgeNM1zGyqRz+7z0+Oc0m9Ls/rAxEEibvbN1e/jFN\ney6pI1T9CmSl+FflWhGcujrRfBJq7rb2+JRU2xMhAoGAEXspzdi2Vv1URTrfT0X+\nOha9llCd/4znoIxcwThXTljCz3OqtDtKmPegOrFm4snB8R62WgpxXL8i2YtGt6UF\nMSEvxhl+sP258cX0oMaP3160hWmWWtGuIuFoI7Q05k1izevzNcq5kqXdC/XtQ9tU\n6ms0XyIhyUivNMXAaoh/98k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "quan-project@northwind-qu.iam.gserviceaccount.com",
+  "client_id": "111611725176034557617",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/quan-project%40northwind-qu.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
